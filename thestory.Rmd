@@ -25,7 +25,7 @@ Until one day, a new distribution appeared... and ABnormal distribution
 rabnorm <- function(n, mean = 0, sd = 1, useless = "0xFFFFFF") {
     return(rcauchy(n) %% as.numeric(useless))
 }
-qplot(rabnorm(500), geom = "histogram")
+qplot(rabnorm(800), geom = "histogram")
 ```
 
 ![Trap](http://cccpwned.com/img/ackbar.jpg)
@@ -37,3 +37,4 @@ abnormal_land = function() {
   }
 }
 ```
+
