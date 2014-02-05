@@ -27,3 +27,5 @@ rabnorm <- function(n, mean = 0, sd = 1, useless = "0xFFFFFF") {
 }
 qplot(rabnorm(500), geom = "histogram")
 ```
+
+![Trap](http://cccpwned.com/img/ackbar.jpg)
