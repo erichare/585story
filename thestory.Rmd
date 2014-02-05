@@ -61,6 +61,8 @@ print(5 + 6)
 The Abnormal distribution wandered around the internet, making changes to .Rmd files all over the place. Sometimes, if you're lucky, you'll come across a .Rmd file that literally makes no sense. It will contain pictures and R code that don't seem to fit with anything else in the document. 
 
 
-The End.
+The End. 
+
+P.S.  We are not normal people........
 
 ![I bet you are.](http://i.imgur.com/T2Iv4.jpg)

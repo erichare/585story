@@ -4,6 +4,7 @@ By: "The Gang"
 ========================================================
 
 In the beginning, there was probability. Well, there probably was. There were all sorts of distributions of all different sorts, and it was wonderful.
+\#distri
 
 ![IT WAS GLORIOUS](http://i.imgur.com/FVXGtV0.png)
 
@@ -44,21 +45,21 @@ for (i in 1:5) {
 ```
 
 ```
-## [1] 49.08
-## [1] 85.02
-## [1] 72.16
-## [1] 2.176
-## [1] 5.506
+## [1] 13.23
+## [1] 18.16
+## [1] 6.865
+## [1] 3.224
+## [1] 23.11
 ```
 
 
 Who needs to be normal anyways???? If everyone was normal there would have never been
 
-![PUPPIES](https://www.google.com/search?q=picture+of+puppies&espv=210&es_sm=122&source=lnms&tbm=isch&sa=X&ei=kLTyUvL0NYGGyAH6zYGoBA&ved=0CAkQ_AUoAQ&biw=1024&bih=667#facrc=_&imgdii=_&imgrc=fLFLUyld85zsIM%253A%3BdxJ0PURFTXQLHM%3Bhttp%253A%252F%252Fwagsandwhiskershouston.files.wordpress.com%252F2012%252F09%252Fpuppy-dog.jpg%3Bhttp%253A%252F%252Fwagsandwhiskershouston.wordpress.com%252F2012%252F09%252F10%252F1735%252F%3B800%3B531)
+![PUPPIES](http://i.imgur.com/dzBAhJl.jpg)
 
 You see that??? Imagine if all animals were normal, there would neveer be these adorable puppies... OR
 
-![CHINCHIILLA](https://www.google.com/search?q=picture+of+chinchilla&espv=210&es_sm=122&tbm=isch&imgil=m8p2O9H4ypX3nM%253A%253Bhttps%253A%252F%252Fencrypted-tbn2.gstatic.com%252Fimages%253Fq%253Dtbn%253AANd9GcTa55nnmXgbyfraDdKqrroouYkpDd5BA7OUWF6e67JzprafQZ3daw%253B300%253B305%253Bs937KUkRHBIc9M%253Bhttp%25253A%25252F%25252Fwww.gopetsamerica.com%25252Fsmall-animals%25252Fchinchilla%25252Fchinchilla_pet.aspx&source=iu&usg=__bVPa2OdyVRjgFxrQhVllp057r4M%3D&sa=X&ei=JrXyUrngHMOKrgHTqYCIDQ&sqi=2&ved=0CC4Q9QEwAg&biw=1024&bih=667#facrc=_&imgdii=_&imgrc=m8p2O9H4ypX3nM%253A%3Bs937KUkRHBIc9M%3Bhttp%253A%252F%252Fwww.gopetsamerica.com%252Fsmall-animals%252Fchinchilla%252Fchin.jpg%3Bhttp%253A%252F%252Fwww.gopetsamerica.com%252Fsmall-animals%252Fchinchilla%252Fchinchilla_pet.aspx%3B300%3B305)
+![CHINCHIILLA](http://i.imgur.com/w85QBgr.jpg)
 
 With 10000 times the fur of a normal rodent, with the normal curve chinchillas would cease to exist.
 
@@ -67,14 +68,6 @@ With 10000 times the fur of a normal rodent, with the normal curve chinchillas w
 `+` = function(x, y) {
     paste0(x, y, "1939")
 }
-print("5 + 6 = ")
-```
-
-```
-## [1] "5 + 6 = "
-```
-
-```r
 print(5 + 6)
 ```
 
@@ -82,3 +75,11 @@ print(5 + 6)
 ## [1] "561939"
 ```
 
+
+
+The Abnormal distribution wandered around the internet, making changes to .Rmd files all over the place. Sometimes, if you're lucky, you'll come across a .Rmd file that literally makes no sense. It will contain pictures and R code that don't seem to fit with anything else in the document. 
+
+
+The End. 
+
+![I bet you are.](http://i.imgur.com/T2Iv4.jpg)
