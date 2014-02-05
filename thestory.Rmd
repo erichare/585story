@@ -11,6 +11,9 @@ All of the distributions lived in perfect harmony.
 
 ![SUCH COOPERATION](http://i.imgur.com/NayB2RR.gif)
 
+Until one day, a new distribution appeared... and ABnormal distribution
+![NOOOOO!!!!](http://i.imgur.com/OVe8D.jpg)
+
 
 ```{r}
 summary(cars)
