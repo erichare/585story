@@ -9,6 +9,7 @@ In the beginning, there was probability. Well, there probably was. There were al
 
 ```{r, echo=FALSE}
 library(ggplot2)
+library(plyr)
 ```
 
 =======
