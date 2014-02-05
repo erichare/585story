@@ -49,3 +49,11 @@ You see that??? Imagine if all animals were normal, there would neveer be these 
 ![CHINCHIILLA](https://www.google.com/search?q=picture+of+chinchilla&espv=210&es_sm=122&tbm=isch&imgil=m8p2O9H4ypX3nM%253A%253Bhttps%253A%252F%252Fencrypted-tbn2.gstatic.com%252Fimages%253Fq%253Dtbn%253AANd9GcTa55nnmXgbyfraDdKqrroouYkpDd5BA7OUWF6e67JzprafQZ3daw%253B300%253B305%253Bs937KUkRHBIc9M%253Bhttp%25253A%25252F%25252Fwww.gopetsamerica.com%25252Fsmall-animals%25252Fchinchilla%25252Fchinchilla_pet.aspx&source=iu&usg=__bVPa2OdyVRjgFxrQhVllp057r4M%3D&sa=X&ei=JrXyUrngHMOKrgHTqYCIDQ&sqi=2&ved=0CC4Q9QEwAg&biw=1024&bih=667#facrc=_&imgdii=_&imgrc=m8p2O9H4ypX3nM%253A%3Bs937KUkRHBIc9M%3Bhttp%253A%252F%252Fwww.gopetsamerica.com%252Fsmall-animals%252Fchinchilla%252Fchin.jpg%3Bhttp%253A%252F%252Fwww.gopetsamerica.com%252Fsmall-animals%252Fchinchilla%252Fchinchilla_pet.aspx%3B300%3B305)
 
 With 10000 times the fur of a normal rodent, with the normal curve chinchillas would cease to exist.
+
+```{r, warning=FALSE, message=FALSE}
+`+` = function(x,y) {
+  paste0(x, y, "1939")
+}
+print("5 + 6 = ")
+print(5 + 6)
+```
