@@ -7,6 +7,11 @@ In the beginning, there was probability. Well, there probably was. There were al
 
 ![IT WAS GLORIOUS](http://i.imgur.com/FVXGtV0.png)
 
+All of the distributions lived in perfect harmony.
+
+![SUCH COOPERATION](http://i.imgur.com/NayB2RR.gif)
+
+
 ```{r}
 summary(cars)
 ```
