@@ -7,6 +7,7 @@ In the beginning, there was probability. Well, there probably was. There were al
 
 ![IT WAS GLORIOUS](http://i.imgur.com/FVXGtV0.png)
 
+<<<<<<< HEAD
 ```{r, echo=FALSE}
 library(ggplot2)
 ```
@@ -18,15 +19,10 @@ rabnorm <- function(n, mean = 0, sd = 1, useless = "0xFFFFFF") {
 }
 qplot(rabnorm(500), geom = "histogram")
 ```
+=======
+All of the distributions lived in perfect harmony.
 
+![SUCH COOPERATION](http://i.imgur.com/NayB2RR.gif)
 
-```{r}
-summary(cars)
-```
-
-You can also embed plots, for example:
-
-```{r fig.width=7, fig.height=6}
-plot(cars)
-```
-
+Until one day, a new distribution appeared... and ABnormal distribution
+![NOOOOO!!!!](http://i.imgur.com/OVe8D.jpg)
