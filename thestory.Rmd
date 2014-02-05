@@ -7,6 +7,19 @@ In the beginning, there was probability. Well, there probably was. There were al
 
 ![IT WAS GLORIOUS](http://i.imgur.com/FVXGtV0.png)
 
+```{r, echo=FALSE}
+library(ggplot2)
+```
+
+
+```{r, warning=FALSE, message=FALSE}
+rabnorm <- function(n, mean = 0, sd = 1, useless = "0xFFFFFF") {
+    return(rcauchy(n) %% as.numeric(useless))
+}
+qplot(rabnorm(500), geom = "histogram")
+```
+
+
 ```{r}
 summary(cars)
 ```
