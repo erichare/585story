@@ -1,10 +1,8 @@
 A Non-Normal Life 
-
-By: "The Gang"
 ========================================================
+By: "The Gang"
 
 In the beginning, there was probability. Well, there probably was. There were all sorts of distributions of all different sorts, and it was wonderful.
-\#distri
 
 ![IT WAS GLORIOUS](http://i.imgur.com/FVXGtV0.png)
 
@@ -17,6 +15,7 @@ All of the distributions lived in perfect harmony.
 ![SUCH COOPERATION](http://i.imgur.com/NayB2RR.gif)
 
 Until one day, a new distribution appeared... and ABnormal distribution
+
 ![NOOOOO!!!!](http://i.imgur.com/OVe8D.jpg)
 
 
@@ -45,11 +44,11 @@ for (i in 1:5) {
 ```
 
 ```
-## [1] 13.23
-## [1] 18.16
-## [1] 6.865
-## [1] 3.224
-## [1] 23.11
+## [1] 32.68
+## [1] 8.6
+## [1] 6.208
+## [1] 5.744
+## [1] 13.62
 ```
 
 
@@ -76,10 +75,13 @@ print(5 + 6)
 ```
 
 
+We are not normal people........  Then we are not normal, if we are smart.  conflict resolution: we are champions
 
-The Abnormal distribution wandered around the internet, making changes to .Rmd files all over the place. Sometimes, if you're lucky, you'll come across a .Rmd file that literally makes no sense. It will contain pictures and R code that don't seem to fit with anything else in the document. 
+The Abnormal distribution wandered around the internet, making changes to .Rmd and HTML files all over the place. Sometimes, if you're lucky, you'll come across a .Rmd or HTML file that literally makes no sense. It will contain pictures and R code that don't seem to fit with anything else in the document. 
 
 
 The End. 
+
+
 
 ![I bet you are.](http://i.imgur.com/T2Iv4.jpg)
