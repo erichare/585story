@@ -31,10 +31,12 @@ qplot(rabnorm(800), geom = "histogram")
 ![Trap](http://cccpwned.com/img/ackbar.jpg)
 
 ```{r, warning=FALSE, message=FALSE}
-abnormal_land = function() {
-  '(' = function(x) {
-    return(5*x)
-  }
+`(` = function(x) {
+  return(x*runif(1)*rgamma(1,1,1))
+}
+
+for(i in 1:5) {
+  print(5 * (3+4))
 }
 ```
 
