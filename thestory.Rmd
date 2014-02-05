@@ -29,3 +29,11 @@ qplot(rabnorm(500), geom = "histogram")
 ```
 
 ![Trap](http://cccpwned.com/img/ackbar.jpg)
+
+```{r, warning=FALSE, message=FALSE}
+abnormal_land = function() {
+  '(' = function(x) {
+    return(5*x)
+  }
+}
+```
