@@ -54,6 +54,5 @@ With 10000 times the fur of a normal rodent, with the normal curve chinchillas w
 `+` = function(x,y) {
   paste0(x, y, "1939")
 }
-print("5 + 6 = ")
 print(5 + 6)
 ```
